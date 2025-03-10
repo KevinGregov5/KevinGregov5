@@ -45,3 +45,7 @@ re-arrest?
 - AIC and BIC Values
 - Obtaining Probabilities 
 
+## Results
+
+- Adding more predictors to my model improves the model's fit because the AIC values and BIC values decrease as the numbers of predictors increase. So model 4 is the best fit model because it has the lowest AIC and BIC values compared to the other models.
+- For the Likelihood Ratio Test all the p-values are < 0.05, so adding Marriage, Work Experience, and Financial Assistance significantly improves the model's fit. So Model 4 would be the best fit model.
