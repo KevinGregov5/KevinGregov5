@@ -38,3 +38,10 @@ re-arrest?
 - Does financial assistance reduce the likelihood of
 re-arrest?
 
+## Statistical Tests
+
+- Logit Regression
+- Likeihood Ratio Test
+- AIC and BIC Values
+- Obtaining Probabilities 
+
