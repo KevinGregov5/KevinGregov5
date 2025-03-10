@@ -24,5 +24,17 @@ no)
 - Independent Variable: Financial Assistance(yes,
 no)
 
+## Research Questions
 
+- Does race influence the likelihood of being
+re-arrested?
+
+- Does marriage status impact the likelihood of being
+re-arrested?
+
+- Does having work experience reduce the likelihood of
+re-arrest?
+
+- Does financial assistance reduce the likelihood of
+re-arrest?
 
